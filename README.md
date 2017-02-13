@@ -1,8 +1,22 @@
-# Teste de React
+# Teste de React com Api do GitHub
 
 
 
 Webpack -w -> Compila a cada mudança
+
+#Usado:
+
+
+-Webpack (Básico)
+
+- React
+	1. JSX
+	2. Components
+	3. Axios
+	4. LifeCycle
+
+
+- babel ( npm install --save-dev babel-core babel-loader babel-preset-react)
 
 
 
